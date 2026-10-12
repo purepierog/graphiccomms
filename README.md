@@ -1,2 +1,0 @@
-# graphiccomms
-graphic commuinication website
